@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="CodeLibrary">
+        <property name="context-root" value="CodeLibrary"/>
+        <property name="java-output-path" value="/CodeLibrary/build/classes"/>
+    </wb-module>
+</project-modules>

@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+/Users/victor/Projects/Victor/code_library/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+324215452.index
+837103242.index
+3605322125.index
+3634889736.index
+350462684.index
+1247354468.index
