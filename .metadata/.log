@@ -21,3 +21,24 @@ Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.
 
 !ENTRY org.eclipse.jst.jsp.core 2 2 2018-03-31 08:25:41.256
 !MESSAGE Taglib Index ZipException: /Users/victor/Projects/Victor/code_library/CodeLibrary/WebContent/WEB-INF/lib/hibernate-osgi-5.2.16.Final-karaf.xml error in opening zip file
+
+!ENTRY org.eclipse.jface.text 2 0 2018-04-01 20:40:43.155
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.number'
+
+!ENTRY org.eclipse.jface.text 2 0 2018-04-01 20:40:43.159
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.round'
+
+!ENTRY org.eclipse.jface.text 2 0 2018-04-01 20:40:43.408
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.number'
+
+!ENTRY org.eclipse.jface.text 2 0 2018-04-01 20:40:43.411
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.round'
+
+!ENTRY org.eclipse.jdt.core 4 0 2018-04-01 20:40:44.360
+!MESSAGE Invalid ZIP archive: WebContent/WEB-INF/lib/hibernate-osgi-5.2.16.Final-karaf.xml [in CodeLibrary]
+
+!ENTRY org.eclipse.jdt.core 4 0 2018-04-01 20:40:47.044
+!MESSAGE Invalid ZIP archive: WebContent/WEB-INF/lib/hibernate-osgi-5.2.16.Final-karaf.xml [in CodeLibrary]
+
+!ENTRY org.eclipse.jdt.core 4 0 2018-04-01 20:45:33.909
+!MESSAGE Invalid ZIP archive: WebContent/WEB-INF/lib/hibernate-osgi-5.2.16.Final-karaf.xml [in CodeLibrary]
