@@ -42,3 +42,22 @@ Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.
 
 !ENTRY org.eclipse.jdt.core 4 0 2018-04-01 20:45:33.909
 !MESSAGE Invalid ZIP archive: WebContent/WEB-INF/lib/hibernate-osgi-5.2.16.Final-karaf.xml [in CodeLibrary]
+!SESSION 2018-04-02 17:14:51.165 -----------------------------------------------
+eclipse.buildId=4.7.3.M20180301-0715
+java.version=1.8.0_151
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product -keyring /Users/victor/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.jee.product -keyring /Users/victor/.eclipse_keyring
+
+!ENTRY org.eclipse.core.net 1 0 2018-04-02 17:15:00.628
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.jdt.core 4 0 2018-04-02 17:19:15.484
+!MESSAGE Invalid ZIP archive: WebContent/WEB-INF/lib/hibernate-osgi-5.2.16.Final-karaf.xml [in CodeLibrary]
+
+!ENTRY org.eclipse.jface.text 2 0 2018-04-02 17:24:06.225
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.number'
+
+!ENTRY org.eclipse.jface.text 2 0 2018-04-02 17:24:06.228
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.round'
